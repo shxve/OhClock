@@ -8,7 +8,7 @@ This vulnerability was spotted thanks to a recent post on X :)
 
 Turning it into a universal LPE is left as an exercise for the reader ;)
 
-Authors: Pietro Foroni and Dan.
+Authors: Pietro Foroni (HWG Offensive Team) and Dan.
 
 ## Proof of concept
 
