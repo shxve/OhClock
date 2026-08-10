@@ -12,7 +12,7 @@ Authors: Pietro Foroni (HWG Offensive Team) and Dan.
 
 ## Proof of concept
 
-[![OhClock proof of concept](https://asciinema.org/a/y5K12hlmd4RL4t0M.svg)](https://asciinema.org/a/y5K12hlmd4RL4t0M)
+[![OhClock proof of concept](poc.jpg)
 
 ## Build
 
