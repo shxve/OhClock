@@ -12,7 +12,7 @@ Authors: Pietro Foroni (HWG Offensive Team) and Dan.
 
 ## Proof of concept
 
-[![OhClock proof of concept](poc.jpg)
+![OhClock proof of concept](poc.jpg)
 
 ## Build
 
