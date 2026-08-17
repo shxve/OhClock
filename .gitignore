@@ -1,0 +1,16 @@
+# Local build artifacts — do not publish
+exploit
+exploit.static
+server_cert.pem
+oracle-results/
+*.o
+*.a
+*.so
+__pycache__/
+*.py[cod]
+
+# Editor / OS noise
+*.swp
+*~
+.DS_Store
+.vscode/
